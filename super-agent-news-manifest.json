@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "TechCrunch",
+      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ"
+    },
+    {
+      "source": "MSN",
+      "title": "Google launches Gemini Spark AI assistant for macOS users",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRFAtNGlLeE1FSkRxT1VIeFJ5RXRGT3VGbmhRdFgtRGVXMU1SbUJLb2diWGN6WWxxZFZ4YkZqMEFSUVByMWxnbEFxTnlmYnFJWHZubEFIQTQ2QUFnN2VfMFgtLVd6dXVid0FXN1RJODV2WnpOSV9mVHZVYnhKaUR1YTB1a1p5MVI5UmV0MjlBMmlUdXBJcmJjYW1KbE5fdllQYnROUndPY1I3UFM1R0Nub056c3NDLUF5YWxPQ2kyemhCbGJYVndCejNkaHZ3S3dELUtYR0xsYWRNY1h4c0dpZXFrMWcxenVLcWNGaTJtRjE"
+    },
+    {
+      "source": "Google AI for Developers",
+      "title": "Computer Use | Gemini API",
+      "url": "https://ai.google.dev/gemini-api/docs/computer-use"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Introducing the Gemini 2.5 Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from title+kind+audience+generated_at -> selected architecture=comparison-lab, typography=Cabinet Grotesk, components=[gapless-bento-grid, decision-matrix, source-card-dossier], GSAP=[card-stacking, hover-physics]. AIDA Check: Attention(hero headline), Interest(comparison+bento), Desire(media+motion), Action(CTA band). Font Selection: Cabinet Grotesk from Fontshare verified. Hero Math Verification: H1 max-width 1120px, clamp sizing keeps 2\u20133 lines across breakpoints. Bento Density Verification: grid-auto-flow:dense present in CSS. GSAP Motion Selection: guarded card stacking and hover physics only. Label Sweep & Button Check: primary black pill CTA contrasts on paper background; secondary white CTA verified.",
+  "generated_at": "2026-07-05T02:50:24.147200+00:00",
+  "headline": "Super vs Gemini: choosing a personal AI agent for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "A fair, source\u2011backed comparison of Super and Google Gemini for people deciding how to run repeated computer\u2011use workflows. Gemini Spark brings powerful desktop automation to macOS. Super focuses on durable personal agents with a reusable computer\u2011use cache that compounds value over time."
+}
